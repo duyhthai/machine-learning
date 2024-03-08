@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4450dc61-1210-494c-9ff6-e44c4eada31b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/machine-learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleLinearRegression/50_Startups.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleLinearRegression/multiple_linear_regression.py" afterDir="false" />
+    <list default="true" id="4450dc61-1210-494c-9ff6-e44c4eada31b" name="Changes" comment="init repo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultipleLinearRegression/multiple_linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/MultipleLinearRegression/multiple_linear_regression.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1709786017885</updated>
     </task>
+    <task id="LOCAL-00001" summary="init repo">
+      <option name="closed" value="true" />
+      <created>1709786745751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709786745751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="init repo" />
   </component>
 </project>
